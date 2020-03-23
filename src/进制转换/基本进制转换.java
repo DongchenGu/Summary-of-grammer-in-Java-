@@ -5,7 +5,7 @@ public class 基本进制转换 {
 	  public static void main(String[] args) {
 		  
 		  toHex_char_perfect(60);
-		
+		  System.out.print(Integer.toBinaryString(6));//日常开发中经常使用Integer进行转换
 	  }
 
 		/*
